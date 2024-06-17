@@ -1,0 +1,5 @@
+{
+  "paths": {
+    "hsbc_client_list": "path/to/hsbc_client_list.csv"
+  }
+}
